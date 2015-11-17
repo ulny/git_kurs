@@ -1,3 +1,4 @@
 Hej Hopp
+Då var det dags med merging av branches
 Här var det dubbletter av edit
 
