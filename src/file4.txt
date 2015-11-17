@@ -1,2 +1,3 @@
 Hej Hopp
+Då var det dags med merging av branches
 
